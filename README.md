@@ -1,1 +1,1 @@
-# testSCLM
+# This is a test project for SCLM to Git migration
